@@ -1,4 +1,4 @@
-package com.levelup;
+package org.jcoffee;
 
 import org.apache.maven.doxia.sink.Sink;
 import org.apache.maven.doxia.siterenderer.Renderer;

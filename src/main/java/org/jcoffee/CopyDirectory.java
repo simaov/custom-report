@@ -1,4 +1,4 @@
-package com.levelup;
+package org.jcoffee;
 
 import java.io.IOException;
 import java.nio.file.*;
